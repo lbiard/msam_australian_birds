@@ -22,7 +22,7 @@ This repository hosts data and R code to reproduce the Multi-Species Abundance M
 
 ## SHARING/ACCESS INFORMATION
 
-1. Licenses/restrictions placed on the data: license CC BY 4.0
+1. Licenses/restrictions placed on the data:
 
 2. Links to publications that cite or use the data: García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities.
 
