@@ -63,13 +63,13 @@ The RData file "data_and_output.RData" is needed to run the MSAM analysis with t
 2. Number of cases/rows: NA
 
 3. Object List: 
-f1: vector of length 52 containing the season of first survey for each site.
-f2: vector of length 52 containing the season of last survey for each site.
-Nmat: 4 dimensional array of dimensions 52 (number of sites) * 17 (number of seasons) * 134 (number of species) * 600 (number of saved iterations). This is the output of the MSAM model, and represents the estimated abundance of each species at each site for each season.
-season_vec: vector of length 17 corresponding to each season (starting from season 1998/1999).
-site_vec: vector of length 52 corresponding to each site name.
-species_vec: vector of length 134 corresponding to each species name.
-y: raw occurence data. 4 dimensional array of dimensions 52 (number of sites) * 7 (number of repeated surveys) * 17 (number of seasons) * 134 (number of species).
+- f1: vector of length 52 containing the season of first survey for each site.
+- f2: vector of length 52 containing the season of last survey for each site.
+- Nmat: 4 dimensional array of dimensions 52 (number of sites) * 17 (number of seasons) * 134 (number of species) * 600 (number of saved iterations). This is the output of the MSAM model, and represents the estimated abundance of each species at each site for each season.
+- season_vec: vector of length 17 corresponding to each season (starting from season 1998/1999).
+- site_vec: vector of length 52 corresponding to each site name.
+- species_vec: vector of length 134 corresponding to each species name.
+- y: raw occurence data. 4 dimensional array of dimensions 52 (number of sites) * 7 (number of repeated surveys) * 17 (number of seasons) * 134 (number of species).
 
 4. Missing data codes: NA
 
