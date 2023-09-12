@@ -7,7 +7,7 @@ This repository hosts data and R code to reproduce the Multi-Species Abundance M
 
 1. Title: "Data and code to reproduce the Multi-Species Abundance Model (MSAM) from: No country for small birds, positive association among medium-sized, aggressive species in Australian bird communities"
 
-2. Author information (for the Multi Species Abudnance Model):
+2. Author information (for the Multi Species Abundance Model):
        
        Name: Louis Bliard
 		   Institution: University of Zurich
