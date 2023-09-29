@@ -1,11 +1,12 @@
 # msam_australian_birds
 
-This repository hosts data and R code to reproduce the Multi-Species Abundance Model (MSAM) from García-Navas V., López-Poveda G., Bliard L., Christidis L., Ozgul A. (2023). No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities.
+This repository hosts data and R code to reproduce the Multi-Species Abundance Model (MSAM) from García-Navas V., López-Poveda G., Bliard L., Christidis L., Ozgul A. (2023). No country for small birds: potential positive association among medium-sized, aggressive species in Australian bird communities. Diveristy and Distributions. https://doi.org/10.1111/
+ddi.13774 
 
 
 ## GENERAL INFORMATION
 
-1. Title: "Data and code to reproduce the Multi-Species Abundance Model (MSAM) from: No country for small birds, positive association among medium-sized, aggressive species in Australian bird communities"
+1. Title: "Data and code to reproduce the Multi-Species Abundance Model (MSAM) from: No country for small birds, potential positive association among medium-sized, aggressive species in Australian bird communities"
 
 2. Author information (for the Multi Species Abundance Model):
        
@@ -26,7 +27,7 @@ This repository hosts data and R code to reproduce the Multi-Species Abundance M
 
 2. Links to publications that cite or use the data: García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities.
 
-3. Links to other publicly accessible locations of the data: Data associated to "García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities". Figshare. https://doi.org/10.6084/m9.figshare.20463717.v1
+3. Links to other publicly accessible locations of the data: Data associated to "García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities". Figshare. https://doi.org/10.6084/m9.figshare.20463717.v2
 
 4. Links/relationships to ancillary data sets: NA
 
