@@ -1,7 +1,6 @@
 # msam_australian_birds
 
-This repository hosts data and R code to reproduce the Multi-Species Abundance Model (MSAM) from García-Navas V., López-Poveda G., Bliard L., Christidis L., Ozgul A. (2023). No country for small birds: potential positive association among medium-sized, aggressive species in Australian bird communities. Diveristy and Distributions. https://doi.org/10.1111/
-ddi.13774 
+This repository hosts data and R code to reproduce the Multi-Species Abundance Model (MSAM) from García-Navas V., López-Poveda G., Bliard L., Christidis L., Ozgul A. (2023). No country for small birds: potential positive association among medium-sized, aggressive species in Australian bird communities. Diveristy and Distributions. https://doi.org/10.1111/ddi.13774 
 
 
 ## GENERAL INFORMATION
