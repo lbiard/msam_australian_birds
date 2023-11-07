@@ -24,9 +24,9 @@ This repository hosts data and R code to reproduce the Multi-Species Abundance M
 
 1. Licenses/restrictions placed on the data:
 
-2. Links to publications that cite or use the data: García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities.
+2. Links to publications that cite or use the data: García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: potential positive association among medium-sized, aggressive species in Australian bird communities. https://doi.org/10.1111/ddi.13774 
 
-3. Links to other publicly accessible locations of the data: Data associated to "García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: positive association among medium-sized, aggressive species in Australian bird communities". Figshare. https://doi.org/10.6084/m9.figshare.20463717.v2
+3. Links to other publicly accessible locations of the data: Data associated to "García-Navas V, López-Povedas G, Bliard L, Chrsitidis L, Ozgul A. 2023. No country for small birds: potential positive association among medium-sized, aggressive species in Australian bird communities". Figshare. https://doi.org/10.6084/m9.figshare.20463717.v2
 
 4. Links/relationships to ancillary data sets: NA
 
